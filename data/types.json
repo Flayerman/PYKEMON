@@ -1,0 +1,110 @@
+[
+    {
+        "id": 37,
+        "name": "Normal",
+        "image": "types_sprites\\Normal.png",
+        "englishName": "normal"
+    },
+    {
+        "id": 38,
+        "name": "Combat",
+        "image": "types_sprites\\Combat.png",
+        "englishName": "fighting"
+    },
+    {
+        "id": 39,
+        "name": "Vol",
+        "image": "types_sprites\\Vol.png",
+        "englishName": "flying"
+    },
+    {
+        "id": 40,
+        "name": "Poison",
+        "image": "types_sprites\\Poison.png",
+        "englishName": "poison"
+    },
+    {
+        "id": 41,
+        "name": "Sol",
+        "image": "types_sprites\\Sol.png",
+        "englishName": "ground"
+    },
+    {
+        "id": 42,
+        "name": "Roche",
+        "image": "types_sprites\\Roche.png",
+        "englishName": "rock"
+    },
+    {
+        "id": 43,
+        "name": "Insecte",
+        "image": "types_sprites\\Insecte.png",
+        "englishName": "bug"
+    },
+    {
+        "id": 44,
+        "name": "Spectre",
+        "image": "types_sprites\\Spectre.png",
+        "englishName": "ghost"
+    },
+    {
+        "id": 45,
+        "name": "Acier",
+        "image": "types_sprites\\Acier.png",
+        "englishName": "steel"
+    },
+    {
+        "id": 46,
+        "name": "Feu",
+        "image": "types_sprites\\Feu.png",
+        "englishName": "fire"
+    },
+    {
+        "id": 47,
+        "name": "Eau",
+        "image": "types_sprites\\Eau.png",
+        "englishName": "water"
+    },
+    {
+        "id": 48,
+        "name": "Plante",
+        "image": "types_sprites\\Plante.png",
+        "englishName": "grass"
+    },
+    {
+        "id": 49,
+        "name": "\u00c9lectrik",
+        "image": "types_sprites\\\u00c9lectrik.png",
+        "englishName": "electric"
+    },
+    {
+        "id": 50,
+        "name": "Psy",
+        "image": "types_sprites\\Psy.png",
+        "englishName": "psychic"
+    },
+    {
+        "id": 51,
+        "name": "Glace",
+        "image": "types_sprites\\Glace.png",
+        "englishName": "ice"
+    },
+    {
+        "id": 52,
+        "name": "Dragon",
+        "image": "types_sprites\\Dragon.png",
+        "englishName": "dragon"
+    },
+    {
+        "id": 53,
+        "name": "T\u00e9n\u00e8bres",
+        "image": "types_sprites\\T\u00e9n\u00e8bres.png",
+        "englishName": "dark"
+    },
+    {
+        "id": 54,
+        "name": "F\u00e9e",
+        "image": "types_sprites\\F\u00e9e.png",
+        "englishName": "fairy"
+    }
+]
